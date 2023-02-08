@@ -1,3 +1,4 @@
+<strong>NOTE: Suside is now discontinued. Bugs and patches are not fixed anymore beginning of February 2022</strong>
 ![logo](assets/large_logo.svg)
 
 ***New banner by [SR2ECHA](https://github.com/sr2echa)***
