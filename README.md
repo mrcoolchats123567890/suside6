@@ -1,4 +1,4 @@
-<strong>NOTE: Suside is now geting updates. Bugs and patches are not fixed anymore beginning of February 2029</strong>
+<strong>NOTE: Suside is now geting updates. Bugs and patches are not fixed anymore beginning of February 2029 ඞ</strong>
 ![logo](assets/large_logo.svg)
 
 ***New banner by [SR2ECHA](https://github.com/sr2echa)***
